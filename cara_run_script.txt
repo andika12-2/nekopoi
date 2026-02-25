@@ -1,0 +1,35 @@
+
+Cara Menjalankan / Run Script OchoBot
+https://drive.google.com/file/d/1bY_uNKlMDsNeSrn7Z0-52TmlQy3dUWPj/view?usp=drivesdk
+
+Di Startup Nya Kaya Gini : node start.js
+Di Startup Nya Ganti Node : node 22
+
+Ga Ada Egg Buat Node 22?
+https://www.mediafire.com/file/zxntekwehfxemjj/egg-bot-whatsap.json/file
+
+  !- Pengembang By AlLuffy
+  https://t.me//alluffystore
+  !- Nomor WhatsApp
+  https://wa.me//6283840240138
+  !- Credits By AlLuffy
+  [ Hargai Pengembang Script Ini ]
+  
+  Bantu Folow Channel AlLuffy
+  https://whatsapp.com/channel/0029VavsEpc8kyyG9PxG8s38
+
+  Channel Info Update Script OchoBot WhatsApp Dan OchoBot Telegram
+  https://whatsapp.com/channel/0029VbAs8PeLtOjL3rpe4T42
+  
+  Script OchoBot WhatsApp V1 Sudah Rilis
+  Script OchoBot WhatsApp V2 Sudah Rilis
+  Script OchoBot WhatsApp V3 Sudah Rilis
+  Script OchoBot WhatsApp V4 Sudah Rilis
+  Script OchoBot WhatsApp V5 New Update Rilis
+  Script OchoBotXProtect Telegram V1 Belum Rilis
+  Script OchoBot Telegram Belum Rilis
+  Script OchoBot Bug Via Tele Belum Rilis
+  [ Di Tunggu Kedatangannya Ketua ⏳ ]
+  
+Terimakasih Kedapa Pembeli Script Ini
+
