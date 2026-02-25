@@ -1,0 +1,10 @@
+{
+  "welcome": false,
+  "autojoinGrup": false,
+  "anticall": false,
+  "JedaPushkontak": 6000,
+  "autoread": false,
+  "autotyping": false,
+  "botJpmch": true,
+  "delayJpm": 500
+}
